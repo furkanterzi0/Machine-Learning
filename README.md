@@ -20,6 +20,7 @@ This repository includes the following projects:
 
 ### Project 4: Clustering
 **Description**: Groups unlabeled data into clusters based on similarity using unsupervised learning techniques.
+
 **Algorithms Used**: K-Means, DBSCAN, Hierarchical Clustering.
 
 ### Project 5: Data Preprocessing
