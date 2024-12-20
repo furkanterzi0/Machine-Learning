@@ -19,7 +19,7 @@ This repository includes the following projects:
 ### Project 3: Classification
 **Description**: Applies various classification algorithms to datasets for binary and multi-class classification tasks.
 
-**Algorithms Used**: Logistic Regression, Support Vector Machines (SVM), Random Forest.
+**Algorithms Used**: Logistic Regression, Support Vector Machines (SVM), Random Forest
 
 ### Project 4: Clustering
 **Description**: Groups unlabeled data into clusters based on similarity using unsupervised learning techniques.
